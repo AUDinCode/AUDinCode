@@ -21,7 +21,7 @@
 
 > 💡 *Computer Science developer bridging the gap between cutting-edge AI research and real-world web applications.*
 
-- 🔭 **What I Do:** Build end-to-end intelligent systems integrating LLMs (LangChain) with asynchronous Python backends (FastAPI) and modern frontends (React).
+- 🔭 **What I Do:** Build end-to-end intelligent systems integrating LLMs with asynchronous Python backends (FastAPI) and modern frontends (React).
 - 🎯 **Current Focus:** AI-driven automation, RAG architectures, and scalable full-stack applications.
 - ⚡ **Core Philosophy:** *"Build things that matter. Ship before you're ready. Learn in public."*
 
