@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ausaf Uddin Ahmed 👋</h1>
 
 <p align="center">
-  <strong>Full-Stack & Generative AI Engineer · Rawalpindi, Pakistan 🇵🇰</strong><br>
+  <strong>Full-Stack & Generative AI Developer</strong><br>
   <em>Engineering smart, data-driven software solutions from requirement to deployment.</em>
 </p>
 
@@ -20,9 +20,9 @@
 <hr>
 
 ## 🚀 What I'm building
-I'm a Computer Science graduate from **Foundation University of Science and Technology** specializing in **Full-Stack Web Development** and **Generative AI application development**. My work focuses on integrating cutting-edge AI technologies like LangChain and Large Language Models (LLMs) with robust Python backends (FastAPI) and modern frontend frameworks (React).
+I'm a Computer Science developer focused on turning Generative AI research into **real, deployed products**. My work spans LLM integrations, FastAPI backends, React frontends, and full-stack web applications.
 
-Currently building in the intersection of **AI × Web Software** — transforming raw software requirements into intelligent systems and building scalable full-stack web products.
+Currently building in the intersection of **AI × Web Automation** — helping transform raw workflows into intelligent agents and web solutions.
 
 <hr>
 
@@ -74,37 +74,12 @@ Currently building in the intersection of **AI × Web Software** — transformin
 
 <hr>
 
-## 📌 Featured Work & Projects
-
-- 🧠 **SmartUML – Intelligent UML Diagram Generator (Final Year Project):**  
-  Built a collaborative full-stack web application that automatically converts raw textual software requirements into fully formatted UML diagrams (Use Case, Class, Activity). Engineered an asynchronous Python backend using FastAPI and integrated advanced NLP and prompt engineering techniques.
-
-- 💳 **Expense Tracker (Web Application):**  
-  Designed a user-friendly expense tracking application implementing complete CRUD functionality, dynamic balance calculations, real-time spending updates, and interactive transaction history.
-
-- 🌳 **Family Tree Builder:**  
-  Programmed a CLI-based hierarchical data system in Python implementing Object-Oriented Programming and Depth-First Search (DFS) traversal algorithms for relationship mapping.
-
-- 🏨 **Hotel Management System:**  
-  Designed a robust relational database schema in MySQL optimizing foreign key relationships across complex entities (rooms, guests, bookings) and performance-tuned SQL queries.
-
-<hr>
-
-## 🎓 Education & Experience
-
-- 🎓 **BS in Computer Science** — *Foundation University of Science and Technology* (Graduated 2026)  
-  *Core Focus:* Artificial Intelligence, Data Mining, Data Structures & Algorithms, Database Systems, Software Engineering.
-- 💼 **Frontend Developer Intern** — *5D Solutions LLC* (July 2025 – Sept 2025)  
-  Developed responsive web interfaces, optimized asset delivery with Vite/npm, and collaborated in Agile SDLC workflows.
-
-<hr>
-
 ## 📬 Let's connect
 
-Open to **Full-Stack Web Development**, **Generative AI projects**, and **Software Engineering collaborations**.
+Open to **Full-Stack Web Development**, **Generative AI projects**, and **collaborations**.
 
+- 💼 **LinkedIn:** DM me there for business
 - 📧 **Email:** [ausafahmed102@gmail.com](mailto:ausafahmed102@gmail.com)
-- 💼 **LinkedIn:** [Add your LinkedIn link here]
 - 🐙 **GitHub:** [github.com/AUDinCode](https://github.com/AUDinCode)
 
 <hr>
