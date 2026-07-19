@@ -1,47 +1,46 @@
-<h1 align="center">Hi, I'm Ausaf Uddin Ahmed 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Ausaf+Uddin+Ahmed+👋;Full-Stack+Web+Developer;Generative+AI+Engineer;Building+Smart+Data-Driven+Apps" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <strong>Full-Stack & Generative AI Developer</strong><br>
-  <em>Engineering smart, data-driven software solutions from requirement to deployment.</em>
+  <strong>Full-Stack & Generative AI Engineer ⚡</strong><br>
+  <em>Transforming raw ideas into intelligent, deployed web applications.</em>
 </p>
 
 <p align="center">
-  <a href="mailto:ausafahmed102@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  <a href="https://www.linkedin.com/in/ausafuddinahmed" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;
-  <a href="https://github.com/AUDinCode">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=AUDinCode&style=flat-square&color=blue" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=AUDinCode&style=flat-square&color=blueviolet" alt="Profile views">
 </p>
 
 <hr>
 
-## 🚀 What I'm building
-I'm a Computer Science developer focused on turning Generative AI research into **real, deployed products**. My work spans LLM integrations, FastAPI backends, React frontends, and full-stack web applications.
+## 🚀 About Me
 
-Currently building in the intersection of **AI × Web Automation** — helping transform raw workflows into intelligent agents and web solutions.
+> 💡 *Computer Science developer bridging the gap between cutting-edge AI research and real-world web applications.*
+
+- 🔭 **What I Do:** Build end-to-end intelligent systems integrating LLMs (LangChain) with asynchronous Python backends (FastAPI) and modern frontends (React).
+- 🎯 **Current Focus:** AI-driven automation, RAG architectures, and scalable full-stack applications.
+- ⚡ **Core Philosophy:** *"Build things that matter. Ship before you're ready. Learn in public."*
 
 <hr>
 
-## 🧠 Core Engineering Skills
+## 🧠 Core Specializations
 
 <p>
   <img src="https://img.shields.io/badge/LLMs%20%26%20Prompt%20Engineering-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs">
-  <img src="https://img.shields.io/badge/Full--Stack%20Web%20Dev-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Full Stack">
+  <img src="https://img.shields.io/badge/Full--Stack%20Architecture-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Full Stack">
   <img src="https://img.shields.io/badge/FastAPI%20Backends-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
   <img src="https://img.shields.io/badge/NLP%20%26%20Text%20Analysis-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="NLP">
   <img src="https://img.shields.io/badge/Relational%20%26%20NoSQL%20DBs-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Databases">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 
 <hr>
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
 **Languages & Frameworks**  
 <p>
@@ -57,14 +56,10 @@ Currently building in the intersection of **AI × Web Automation** — helping t
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
 </p>
 
-**Databases & Cloud**  
+**Databases & Environment**  
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
-</p>
-
-**Tools & Environment**  
-<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
@@ -76,14 +71,14 @@ Currently building in the intersection of **AI × Web Automation** — helping t
 
 ## 📬 Let's connect
 
-Open to **Full-Stack Web Development**, **Generative AI projects**, and **collaborations**.
+Open to **Full-Stack Development**, **Generative AI projects**, and **Open-Source Collaborations**.
 
-- 💼 **LinkedIn:** DM me there for business
+- 💼 **LinkedIn:** [linkedin.com/in/ausafuddinahmed](https://www.linkedin.com/in/ausafuddinahmed)
 - 📧 **Email:** [ausafahmed102@gmail.com](mailto:ausafahmed102@gmail.com)
 - 🐙 **GitHub:** [github.com/AUDinCode](https://github.com/AUDinCode)
 
-<hr>
+<br />
 
 <p align="center">
-  <em>"Build things that matter. Ship before you're ready. Learn in public."</em>
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=100&section=footer" width="100%"/>
 </p>
