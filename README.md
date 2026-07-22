@@ -77,8 +77,4 @@ Open to **Full-Stack Development**, **Generative AI projects**, and **Open-Sourc
 - 📧 **Email:** [ausafahmed102@gmail.com](mailto:ausafahmed102@gmail.com)
 - 🐙 **GitHub:** [github.com/AUDinCode](https://github.com/AUDinCode)
 
-<br />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=100&section=footer" width="100%"/>
-</p>
